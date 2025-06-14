@@ -1,4 +1,4 @@
-# What is Multi-Factor Authentication (MFA)?
+# Double Lock Your Accounts with MFA
 
 Multi-Factor Authentication (or MFA) adds an extra layer of protection to your accounts.
 
