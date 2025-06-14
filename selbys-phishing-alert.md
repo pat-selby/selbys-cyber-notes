@@ -1,4 +1,4 @@
-# What is Phishing and How to Avoid It
+# Phishing Scams: Don’t Take the Bait!
 
 Phishing is when scammers try to trick you into giving them your personal info, like passwords or credit card numbers.
 
