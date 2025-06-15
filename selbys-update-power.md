@@ -1,4 +1,4 @@
-# Why Updating Your Software Matters
+# Keep It Fresh: Why Software Updates Matter
 
 Software updates aren’t just about new features — they often fix security problems that hackers try to exploit.
 
