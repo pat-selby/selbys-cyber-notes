@@ -1,6 +1,6 @@
-# How to Recognize Suspicious Activity Online
+# Spot the Red Flags: Recognize Suspicious Online Activity
 
-Sometimes, hackers try to get in by tricking you or sending fake messages.
+Hackers love to sneak in through tricks and fake messages.
 
 Here’s what to watch for:
 
